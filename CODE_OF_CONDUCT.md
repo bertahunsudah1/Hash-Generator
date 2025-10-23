@@ -1,3 +1,1 @@
-# Code of Conduct
-
-Be respectful and constructive.
+# Code of Conduct\nBe respectful.
